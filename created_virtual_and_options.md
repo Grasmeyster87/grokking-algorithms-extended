@@ -1,10 +1,7 @@
 JavaScript
 npm init -y
-// npm install express просто приклад
+npm install express - просто приклад
 npm install
-
-nvm list available
-nvm install 18
 
 Python
 python -m venv .venv
